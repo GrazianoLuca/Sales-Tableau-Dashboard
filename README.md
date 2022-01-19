@@ -10,6 +10,6 @@ Therefore, a csv file containing was handed to me for the purpose of creating a 
 
 Per his requirements, an interactive dashboard was created to analyse the supermarket performance.   
 
-![UT Mart Sales Dashboard](https://github.com/GrazianoLuca/Sales-Tableau-Dashboard.git/Dashboard.PNG)
+![UT Mart Sales Dashboard](https://github.com/GrazianoLuca/Sales-Tableau-Dashboard/blob/main/Dashboard.PNG)
 
 
