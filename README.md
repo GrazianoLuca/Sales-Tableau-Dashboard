@@ -10,5 +10,6 @@ Therefore, a csv file containing was handed to me for the purpose of creating a 
 
 Per his requirements, an interactive dashboard was created to analyse the supermarket performance.   
 
+![This is an image](./UT Mart Sales.PNG)
 
 
