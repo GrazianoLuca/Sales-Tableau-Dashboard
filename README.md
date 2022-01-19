@@ -10,3 +10,5 @@ Therefore, a csv file containing was handed to me for the purpose of creating a 
 
 Per his requirements, an interactive dashboard was created to analyse the supermarket performance.   
 
+![alt text]("C:\Users\Luca\Desktop\Projects\UT Mart Sales Analytics\Screenshots\UT Mart Sales.PNG")
+
